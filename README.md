@@ -1,5 +1,9 @@
 # TwinStickShooter
-Made for game programming school assignment
+> Made for game programming school assignment.
+
+Build verion: **UNREAL VERSION 5.4.4**
+![image](https://github.com/user-attachments/assets/c5245b1c-20d4-44c4-bf77-d6cf62ac1e8d)
+
 
 # Features
 
