@@ -14,7 +14,7 @@ All content from the twin stick shooter tutorials are implemented.
 ### Custom level progression
 There are 3 custom hand build stages the player can play.
 In each stage there is a task to kill a set amount of enemies until the gates open to the next region.
-After completing the final stage the game ends.
+After completing the final stage, the game ends.
 
 ### Game menus
 Custom main menu is added for starting and quitting the game, additionally a pause and death menu exist for creating a full gameplay loop.
@@ -31,7 +31,7 @@ When pressing the spacebar, a custom burst ability activates, this burst ability
 Note that this powerup has limited uses!
 
 ### Powerups
-Players can find ammo, health and ability powerups scattered around the maps to maintain resources during combat
+Players can find health powerups scattered around the maps to maintain resources during combat.
 
 ### Enchanced aesthetics and props
-Custom props have been added to enchance the gameplay experience and aesthetics
+Custom props have been added to enchance the gameplay experience and aesthetics.
