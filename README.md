@@ -5,6 +5,8 @@ Build verion: **UNREAL VERSION 5.4.4**
 
 ![image](https://github.com/user-attachments/assets/c5245b1c-20d4-44c4-bf77-d6cf62ac1e8d)
 
+To launch this game on unreal, download the content and launch the TwinStickShooter.uproject from the unreal launcher
+
 
 # Features
 
@@ -31,7 +33,7 @@ When pressing the spacebar, a custom burst ability activates, this burst ability
 Note that this powerup has limited uses!
 
 ### Powerups
-Players can find health and burst refill powerups scattered around the maps to maintain resources during combat.
+Players can find health and burst refill powerups generated around the maps to maintain resources during combat.
 
 ![image](https://github.com/user-attachments/assets/91d503f9-7b2b-44b7-99e3-d81fe0e6283a)
 
