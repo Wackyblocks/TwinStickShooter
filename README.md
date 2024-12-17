@@ -3,6 +3,8 @@
 
 Build verion: **UNREAL VERSION 5.4.4**
 
+Make sure you have visual studio 2022 C++ game development package installed to run this project!
+
 In case the project does not run from this version, try a higher version variant to rebuild on.
 
 ![image](https://github.com/user-attachments/assets/c5245b1c-20d4-44c4-bf77-d6cf62ac1e8d)
