@@ -10,8 +10,11 @@ To launch this game on unreal, download the content and launch the TwinStickShoo
 # Controls
 
 **WASD** - Movement
+
 **Arrow keys** - Weapon aim
+
 **Space** - Burst ability
+
 **P / esc** - Pause
 
 # Features
