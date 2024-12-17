@@ -7,6 +7,12 @@ Build verion: **UNREAL VERSION 5.4.4**
 
 To launch this game on unreal, download the content and launch the TwinStickShooter.uproject from the unreal launcher
 
+# Controls
+
+**WASD** - Movement
+**Arrow keys** - Weapon aim
+**Space** - Burst ability
+**P / esc** - Pause
 
 # Features
 
