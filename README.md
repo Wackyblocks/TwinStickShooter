@@ -3,7 +3,7 @@
 
 Build verion: **UNREAL VERSION 5.4.4**
 
-In case the project does not run from this version, try a higher variant to rebuild on.
+In case the project does not run from this version, try a higher version variant to rebuild on.
 
 ![image](https://github.com/user-attachments/assets/c5245b1c-20d4-44c4-bf77-d6cf62ac1e8d)
 
